@@ -1,5 +1,8 @@
 # Simulado-Detran
-This game a Quiz-Game, developer on Unity and C# at Android and IOS Building.
+* This game a Quiz-Game for people who are going to take the Detran-CE exam, developer from Android.
+
+# Available at Google Play
+* If you want to check out the play store, it's available at:  [Play Store: Simulado Detran-CE](https://play.google.com/store/apps/details?id=br.viniciusmangueira.com)
 
 # Preview
 
