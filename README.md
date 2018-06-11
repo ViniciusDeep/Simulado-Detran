@@ -7,5 +7,5 @@
 
 # Preview
 
-![image](![mochup one](https://user-images.githubusercontent.com/32227073/41209787-1d33b062-6d04-11e8-93a9-f0be8498445c.png))
+![image](https://user-images.githubusercontent.com/32227073/41209787-1d33b062-6d04-11e8-93a9-f0be8498445c.png))
  
