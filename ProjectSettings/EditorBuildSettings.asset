@@ -4,4 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cenas/titulo.unity
+    guid: 31aaa71a02cbf344c9a6d56e5a163395
+  - enabled: 1
+    path: Assets/Cenas/temas.unity
+    guid: 05dd693bf60c8344aa3627a6e563e43f
+  - enabled: 1
+    path: Assets/Cenas/T1.unity
+    guid: 9147e9e09c3bb304b89534e1f3da97ae
+  - enabled: 1
+    path: Assets/Cenas/notaFinal.unity
+    guid: 7bf742a538905124b89bbee7c31c4f51
+  - enabled: 1
+    path: Assets/Cenas/configs.unity
+    guid: 8ae51be9e166aef4fb05da7b8b095a96
